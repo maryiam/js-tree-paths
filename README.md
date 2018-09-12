@@ -1,4 +1,4 @@
-# JS-TREE-PATHS
+# js-tree-paths
 Allows to display the resulted tree from a given system paths.
 
 Tests are written with `JEST`.
